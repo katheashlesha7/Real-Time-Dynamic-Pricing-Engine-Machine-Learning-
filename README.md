@@ -1,4 +1,5 @@
 # M5 Daily Demand Forecasting and Dynamic Pricing Demo
+Created by: Ashlesha Kathe
 
 An end-to-end machine-learning demo that uses the M5 Forecasting Accuracy dataset to forecast daily product sales and compare price scenarios. It includes daily feature engineering, an Optuna-tuned XGBoost regressor, a FastAPI service, a Streamlit interface, and optional Prometheus/Grafana monitoring.
 
